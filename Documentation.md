@@ -36,3 +36,7 @@ Quest/Habit Tracker with RPG elements, incluing XP points per completing Quests,
 (Relationship Entities)
 - UserQuests: userId, questId
 - QuestSkillset: questId, skillsetId
+
+## Extra Details
+
+- Create static home page and serve it with react-snap for SEO
