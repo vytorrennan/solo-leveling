@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\solo-leveling.props" />
+</Project>

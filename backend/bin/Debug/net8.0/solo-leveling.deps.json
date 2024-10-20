@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "solo-leveling/1.0.0": {
+        "runtime": {
+          "solo-leveling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solo-leveling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
