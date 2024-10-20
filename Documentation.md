@@ -28,10 +28,10 @@ Quest/Habit Tracker with RPG elements, incluing XP points per completing Quests,
 - NotificationType: id, name
 
 (Data)
-- Skillset: id, skillset
+- Skillset: id, skillset, isDeleted
 - Quests: id, title, description, rank, skillset, isCompleted, isDeleted
-- User: id, email, username, password, xp, level
-- Notifications: id, notificationTypeId, description, isNew
+- User: id, email, username, password, xp, level, isDeleted
+- Notifications: id, notificationTypeId, description, isNew, isDeleted
 
 (Relationship Entities)
 - UserQuests: userId, questId
